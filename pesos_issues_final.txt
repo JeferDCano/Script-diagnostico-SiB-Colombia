@@ -1,0 +1,46 @@
+Issues	Total
+IDENTIFIED_DATE_UNLIKELY	7
+DEPTH_UNLIKELY	7
+COORDINATE_OUT_OF_RANGE	7.5
+PRESUMED_NEGATED_LATITUDE	7.5
+PRESUMED_NEGATED_LONGITUDE	7.5
+COORDINATE_REPROJECTED_SUSPICIOUS	7.5
+ELEVATION_UNLIKELY	8
+COUNTRY_COORDINATE_MISMATCH	8.5
+RECORDED_DATE_UNLIKELY	8.5
+INDIVIDUAL_COUNT_INVALID	8.5
+DEPTH_MIN_MAX_SWAPPED	8.5
+DEPTH_NON_NUMERIC	8.5
+COORDINATE_REPROJECTED	8.5
+Departamento y municipio no coinciden con ubicación de la coordenada	8.5
+Municipio no coincide con ubicación de la coordenada	8.5
+Departamento no coincide con ubicación de la coordenada	8.5
+RECORDED_DATE_MISMATCH	9
+GEODETIC_DATUM_INVALID	9
+CONTINENT_COUNTRY_MISMATCH	9
+ZERO_COORDINATE	9.5
+ELEVATION_NON_NUMERIC	9.5
+ELEVATION_MIN_MAX_SWAPPED	9.5
+Coordenada ubicada en área marítima	9.5
+Sin coordenadas	9.5
+Datos marinos: scientificNameID no documentado	9.5
+Datos marinos: occurrenceStatus no documentado	9.5
+INDIVIDUAL_COUNT_CONFLICTS_WITH_OCCURRENCE_STATUS	10
+GEODETIC_DATUM_ASSUMED_WGS84	10
+COUNTRY_MISMATCH	10
+COORDINATE_REPROJECTED_FAILED	10
+DEPTH_NON_METRIC	10
+PRESUMED_SWAPPED_COORDINATE	10.5
+IDENTIFIED_DATE_INVALID	10.5
+COORDINATE_INVALID	11
+RECORDED_DATE_INVALID	11
+ELEVATION_NON_METRIC	11
+COUNTRY_INVALID	11.5
+COUNTRY_DERIVED_FROM_COORDINATES	12
+Documentación inválida del elemento colletionID	12
+Coordenada inválida: contiene valores de texto	13
+Ausente en lista taxonómica	13.5
+BASIS_OF_RECORD_INVALID	15
+Documentación inválida en occurrenceStatus	15
+Documentación inválida del elemento basisOfRecord	16
+Documentación inválida del elemento type	16
