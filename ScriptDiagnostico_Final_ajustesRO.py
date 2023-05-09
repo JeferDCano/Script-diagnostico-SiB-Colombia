@@ -179,6 +179,3 @@ dwmF=pd.merge(left=datasetCO, right=final_dataset, how='left', left_on='key', ri
 #%%
 #Export the final result to csv file.
 dwmF.to_csv('D:\HardDisck_Device\ADATA\Data\SIB_Py\Check\ReporteFinal_PriorizacionColombia_2.csv', sep="\t", encoding = "utf8")
-
-
-dwm.groupby([dwm['key']=!'9850b85a-793f-429d-a437-2d5b46282acf']).gbifID.nunique().reset_index()
