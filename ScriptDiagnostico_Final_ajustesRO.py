@@ -2,7 +2,7 @@
 """
 Created on Wed Dec 22 16:47:34 2021
 
-@author: ricardo.ortiz
+@author: Jefer.Cano, Ricardo.Ortiz
 """
 
 import pandas as pd
